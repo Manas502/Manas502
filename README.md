@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Manas502/Manas502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am a Developer, Programmer and a Learner😄
 
-Here are some ideas to get you started:
+Actively learning new technologies while brushing up my skills in MERN stack development. Also interested in contributing to Open Source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web Application
+- 🌱 I’m currently learning Linux Kernel
+- 👯 I’m looking to collaborate on interesting development projects
+- 💬 Goals for 2021: Get my hands supremely dirty with Open source🤓
+- ⚡ Fun fact: I love Graphic Designing as well
+
+### Languages and Tools:
+<img height="20" width="20" src="https://simpleicons.org/icons/html5.svg" />    <img height="20" width="20" src="https://simpleicons.org/icons/css3.svg" />    <img height="20" width="20" src="https://simpleicons.org/icons/javascript.svg" />    <img height="20" width="20" src="https://simpleicons.org/icons/mongodb.svg" />    <img height="20" width="20" src="https://simpleicons.org/icons/react.svg" />    <img height="20" width="20" src="https://simpleicons.org/icons/node-dot-js.svg" />    <img height="20" width="20" src="https://simpleicons.org/icons/visualstudiocode.svg" />    <img height="20" width="20" src="https://simpleicons.org/icons/mysql.svg" />
+
+
+[![Manas's github stats](https://github-readme-stats.vercel.app/api?username=Manas502&show_icons=true&theme=radical)](https://github.com/Manas502/github-readme-stats)
