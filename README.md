@@ -5,7 +5,7 @@
 Actively learning new technologies while brushing up my skills in MERN stack development. Also interested in contributing to Open Source.
 
 - 🔭 I’m currently working on Web Application
-- 🌱 I’m currently learning Linux Kernel
+- 🌱 I’m currently learning UI/UX
 - 👯 I’m looking to collaborate on interesting development projects
 - 💬 Goals for 2021: Get my hands supremely dirty with Open source🤓
 - ⚡ Fun fact: I love Graphic Designing as well
